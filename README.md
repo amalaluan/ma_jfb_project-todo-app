@@ -16,7 +16,7 @@ Before you begin, ensure that you have the following installed:
      - Download the ZIP file of the repository.
      - Clone the repository using Git: 
        ```bash
-       git clone https://github.com/amalaluan/ma_jfb_project-todo-app.git
+       git clone https://github.com/yourusername/Project-Todo-App.git
        ```
      - Fork the repository and clone your fork.
 
@@ -32,7 +32,7 @@ Before you begin, ensure that you have the following installed:
    
 2. **Add a new device:**
    - Click on **Create Device**.
-   - Choose a **Medium Device** (e.g., Pixel 3).
+   - Choose a **Medium Device**.
    - Click **Next** and then **Finish** to set up the device.
 
 ## Running the App
@@ -40,7 +40,19 @@ Before you begin, ensure that you have the following installed:
 1. After setting up the emulator, click on the **Run** button (green triangle) in Android Studio.
 2. The app should launch on the selected device/emulator.
 
-Now you're all set to use the Project Todo App!
+   **Important:** Make sure that the importing process is completed before running the app. You can verify this by checking the bottom right of the screen in Android Studio, where you'll see a progress bar with the word "Importing" as it completes the necessary dependencies and setup.
+
+
+## Exporting as APK
+
+To export the app as an APK file, follow these steps:
+
+1. In Android Studio, go to the **Build** menu at the top of the window.
+2. Select **Generate App Bundle(s) / APK(s)**, and then choose **Generate APK(s)**.
+3. Wait for the build process to complete. Once done, a notification will appear at the bottom right of Android Studio with a link to the APK location.
+4. Click on the **locate** link in the notification to open the folder where the APK is saved.
+
+Now you have your APK ready to be installed on any Android device!
 
 ## Contact Information
 
