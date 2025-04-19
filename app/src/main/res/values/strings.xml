@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Accomplished</string>
+    <string name="menu_gallery">Thrash</string>
+    <string name="menu_slideshow">To Do List</string>
+    <string name="what_would_you_like_to_do">What would you like to do?</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="completed">Completed</string>
+    <string name="done">Done</string>
+    <string name="enter_list_item">Enter List Item</string>
+    <string name="save">Save</string>
+    <string name="_1_delete_to_delete_a_task">1). Delete - To delete a task</string>
+    <string name="_2_edit_to_edit_a_task">2). Edit - To edit a task</string>
+    <string name="_3_done_to_mark_it_as_accomplished_done">3). Done - To mark it as accomplished/done</string>
+</resources>
